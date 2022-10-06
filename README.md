@@ -30,15 +30,15 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Darraya55/Frontend-Mentor-3-column-preview-card-component)
+- Live Site URL: (https://darraya55.github.io/Frontend-Mentor-3-column-preview-card-component/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
+- CSS
 
 ## Author
 
